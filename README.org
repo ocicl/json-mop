@@ -1,0 +1,9 @@
+* json-mop
+
+A metaclass for bridging CLOS and JSON objects
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/gschjetne/json-mop.git |
+| commit  | e87e2d5                                       |
+| systems | json-mop                                      |
+|---------+-----------------------------------------------|
