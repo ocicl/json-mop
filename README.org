@@ -5,6 +5,6 @@ A metaclass for bridging CLOS and JSON objects
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/gschjetne/json-mop.git |
-| commit  | 4a73982                                       |
+| commit  | af3286a                                       |
 | systems | json-mop                                      |
 |---------+-----------------------------------------------|
