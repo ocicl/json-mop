@@ -8,3 +8,4 @@ A metaclass for bridging CLOS and JSON objects
 | commit  | 6670577                                       |
 | systems | json-mop                                      |
 |---------+-----------------------------------------------|
+ 
